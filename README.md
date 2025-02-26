@@ -26,7 +26,7 @@ bot=TeleBot('YOUR_BOT_API_TOKEN_HERE')
 
 1. Установите python версии 3.13
 2. Скачайте этого бота `<> Code => Download ZIP`.
-3. Установите модули `python -m pip install pyTelegramBotAPI`.
+3. Установите модули `pip install pyTelegramBotAPI`.
 4. Указываем в `bot=TeleBot(YOUR_BOT_API_TOKEN_HERE)` токен бота, который можно получить здесь => [@BotFather](https://t.me/BOTFATHER)
 5. Запускаем бота `python main.py`
 
